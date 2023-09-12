@@ -2,6 +2,8 @@
 Python Bindings for Tree Sitter with All Languages
 ==================================================
 
+Fork of `grantjenks/py-tree-sitter-languages`.
+
 Binary Python wheels for all tree sitter languages.
 
 `py-tree-sitter`_ is a fantastic library that provides Python bindings for the
